@@ -106,7 +106,10 @@ This portfolio is ready to be deployed on platforms like:
   ```bash
   vercel --prod
   ```
-- **Netlify**: Connect your GitHub repository
+- **Netlify**: 
+
+  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Ub207/portfolio)
+
 - **AWS Amplify**: Deploy with continuous integration
 
 ## 📧 Contact
